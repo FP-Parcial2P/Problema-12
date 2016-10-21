@@ -1,0 +1,12 @@
+run:
+Ingrese 10 numeros para llenar el arreglo: [0]1
+Ingrese 10 numeros para llenar el arreglo: [1]2
+Ingrese 10 numeros para llenar el arreglo: [2]3
+Ingrese 10 numeros para llenar el arreglo: [3]4
+Ingrese 10 numeros para llenar el arreglo: [4]5
+Ingrese 10 numeros para llenar el arreglo: [5]6
+Ingrese 10 numeros para llenar el arreglo: [6]7
+Ingrese 10 numeros para llenar el arreglo: [7]8
+Ingrese 10 numeros para llenar el arreglo: [8]9
+Ingrese 10 numeros para llenar el arreglo: [9]10
+La media de numeros en posiciones pares es igual a: 5.0BUILD SUCCESSFUL (total time: 10 seconds)
